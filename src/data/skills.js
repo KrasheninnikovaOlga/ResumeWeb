@@ -6,41 +6,33 @@ const skills = [
             iconCls: iconTree,
             skills: [
                 {
-                    name: "Javascript",
+                    name: "T-SQL, MDX",
                     grade: 5,
                 },
                 {
-                    name: "React, Redux, Webpack, Mocha, Jest",
+                    name: "MSSQL, BigQuery, MySQL, Dremel/F1, PLX",
                     grade: 5
                 },
                 {
-                    name: "HTML/CSS/LESS/SASS",
+                    name: "Pentaho, SSIS",
                     grade: 5
                 },
                 {
-                    name: "jQuery",
+                    name: "SSRS, TIBCO Spotfire",
                     grade: 5
                 },
                 {
-                    name: "Ext Js",
+                    name: "SSAS",
                     grade: 4
                 },
                 {
-                    name: "Nightwatch, selenium",
+                    name: "Azure SQL, Informatica",
                     grade: 3
                 },
                 {
-                    name: ".Net/ASP.NET/C#",
-                    grade: 4
-                },
-                {
-                    name: "Java",
+                    name: "Python",
                     grade: 2
-                },
-                {
-                    name: "T-SQL",
-                    grade: 3
-                },
+                }
             ]
         },
         {
