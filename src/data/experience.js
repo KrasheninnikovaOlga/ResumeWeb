@@ -37,7 +37,7 @@ Build a UI for big data application that handles millions of records. Improve us
 Ensure robustness and stability of a product by automation of integration tests.
 `               },
                 {
-                    title: "Senior BI/Database Engineer",
+                    title: "Senior Business Intelligence Data Engineer",
                     period: {
                         startDate: new Date(2016, 3, 1),
                         endDate: new Date(2016, 8, 1),
@@ -52,7 +52,7 @@ Participated in architecture sessions with a project SA to elaborate architectur
 Supported high standards of code quality for UI code base.
 `               },
                 {
-                    title: "Senior BI/Database Engineer",
+                    title: "Senior Business Intelligence Data Engineer",
                     period: {
                         startDate: new Date(2015, 11, 1),
                         endDate: new Date(2016, 5, 1),
@@ -67,7 +67,7 @@ Previous Power Pivot solution required to translate formulas in Excel PowerPivot
 
 `               },
                 {
-                    title: "Senior BI/Database Engineer",
+                    title: "Senior Business Intelligence Data Engineer",
                     period: {
                         startDate: new Date(2015, 9, 1),
                         endDate: new Date(2015, 11, 1),
@@ -81,7 +81,7 @@ I was responsible for all stages of developing the dashboard like the retrieving
 
 `               },
                 {
-                    title: "BI/Database Engineer",
+                    title: "Business Intelligence Data Engineer",
                     period: {
                         startDate: new Date(2012, 7, 1),
                         endDate: new Date(2015, 4, 1),

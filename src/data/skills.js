@@ -30,6 +30,10 @@ const skills = [
                     grade: 3
                 },
                 {
+                    name: "Reltio",
+                    grade: 3
+                },
+                {
                     name: "Python",
                     grade: 2
                 }

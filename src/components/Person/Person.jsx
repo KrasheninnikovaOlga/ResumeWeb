@@ -3,8 +3,8 @@ import img from "images/MyPhoto_small.jpg";
 import { cntPerson, personName, personPosition, personPhoto, cntName } from "./_persons.scss";
 
 const Person = () => {
-    const fullName = "Vasilii Besschetnov",
-          position = "Lead Web Developer";
+    const fullName = "Olga Krasheninnikova",
+          position = "Lead Business Intelligence Data Engineer";
     return (
         <div className={cntPerson}>
             <div className="cnt-photo">
