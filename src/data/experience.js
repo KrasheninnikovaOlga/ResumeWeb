@@ -44,6 +44,29 @@ Communicated with the customer on a regular basis to discuss all technical quest
 
 APIs, Pentaho, Replicator, BigQuery, PLX, Reltio, MySQL, JSON
 `               },
+        {
+            title: "Experience",
+            iconCls: iconBriefcase,
+            items: [
+                {
+                    title: "Lead Business Intelligence Data Engineer",
+                    period: {
+                        startDate: new Date(2016, 11, 1),
+                        endDate: new Date(2016, 11, 1),
+                    },
+                    content: `
+EPAM Systems on behalf of Google  <br/>
+
+Led end-to-end development of centralized data platforms, dashboards, and analytical tools to consolidate legacy and new reporting systems, improve operational efficiency, and support data-driven decision-making for Google Security and Play TechOps teams. 
+Designed data models, KPIs, and ETL pipelines using BigQuery, Dremel/F1, PLX, SQL, Python, and Google Apps Script, performing advanced data analysis to identify trends, anomalies, and key business drivers.
+
+Collaborated with stakeholders and cross-functional teams to gather requirements, prototype dashboards, and deliver actionable insights, automating workflows to streamline reporting processes, enhance usability, and reduce manual effort. Successfully optimized queries, refactored legacy dashboards, and implemented scalable solutions that improved team efficiency and data reliability across multiple projects.
+
+</br>
+<br><b>Technologies:</b></br>
+
+APIs, Pentaho, Replicator, BigQuery, PLX, Reltio, MySQL, JSON
+`               },
                 {
                     title: "Lead Business Intelligence Data Engineer",
                     period: {
