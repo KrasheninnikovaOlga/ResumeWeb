@@ -7,16 +7,15 @@ const sections = [
             items: [
                 {
                     title: "",
-                    content: `IT Professional with over 10 years of direct experience in several enterprise solutions. </br> Primarily I specialize on <b>ETL data processing, database design and implementation (OLTP, DWH, cubes)</b>,
-and also have experience on developing ad-hoc, custom predefined <b>reports</b> based on relational databases and <b>analytical cubes</b>.
-Also I have decent knowledge with Google BI stack (Dremel/F1, BigQuery, PLX).
+                    content: `Senior Data Analyst / Business Data Analyst with 14+ years of experience transforming complex datasets into actionable business insights. Skilled in SQL, data modeling, 
+ETL pipelines, and BI reporting, supporting strategic decision-making and operational improvements at scale.
 
-Experienced with all stages of the development cycle for dynamic database projects.
-
-I am strong <b>team player with high dedication and leadership</b>.
-
-</br>
-I am seeking for a position that will continually <b>challenge my problem solving, analytics and management skills</b>.
+Hands-on experience with Google BI stack (BigQuery, Dremel/F1, PLX) and industry-standard BI/ETL tools (SSIS, SSAS, SSRS, Pentaho, Tibco Spotfire), 
+combining technical expertise with the ability to synthesize data trends, identify key drivers, and communicate findings to business stakeholders.
+ <br/>
+Proficient in Python  for data processing and automation, with familiarity in AI/ML concepts for business applications. 
+Known for delivering robust, scalable, and actionable analytics solutions in complex environments while collaborating effectively across engineering, product, and analytics teams. 
+Holds a Master’s degree in Computer Science with a focus on databases and data warehousing.</br>
 `               },
             ],
         },
